@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		828466472F689B500068C109 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 828466462F689B500068C109 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		821C6AF82F564FB000EE3E67 /* BMI Calculator App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BMI Calculator App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		828466462F689B500068C109 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		821C6AEF2F564FB000EE3E67 = {
 			isa = PBXGroup;
 			children = (
+				828466462F689B500068C109 /* README.md */,
 				821C6AFA2F564FB000EE3E67 /* BMI Calculator App */,
 				821C6AF92F564FB000EE3E67 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				828466472F689B500068C109 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
